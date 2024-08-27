@@ -1,0 +1,12 @@
+*.bin
+# 
+logs/*
+!logs/.gitkeep
+checkpoint/*
+!checkpoint/.gitkeep
+runs/*
+!runs/.gitkeep
+
+
+.idea
+__pycache__
